@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swaff-1931918/sub4project.git"
+    "url": "git+https://github.com/saffolder/sub4final.git"
   },
   "author": "swaff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/swaff-1931918/sub4project/issues"
+    "url": "https://github.com/saffolder/sub4final/issues"
   },
-  "homepage": "https://github.com/swaff-1931918/sub4project#readme",
+  "homepage": "https://github.com/saffolder/sub4final",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
+    "exceljs": "^4.3.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
